@@ -1,0 +1,6 @@
+region = "us-west-2"
+instance_type = "t2.micro"
+ami = "ami-087c2c50437d0b80d"
+subnet_id =  "subnet-51151928"
+vpc_id = "vpc-7c64d704"
+security_group_id = "sg-0d761afd86430a467"
